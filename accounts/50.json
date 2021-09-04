@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "movies-wala-zone-325012",
+  "private_key_id": "298ed57a825edb0f333d62a68961a3b3bf5224f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/cnO+URxoDhUE\n39i8Qp0fDqcOLA3AH6hHp8J1T2FsfHuOH0TW2E+rASieedLjN6aDWLDzpeaSQrSJ\nhF6lFk8hOW7GJhCQjR09RiMwrMCOwnV+UD7eWjpBuV9AY1eKIHAANBay9RSqwlDm\nreoJRvnmV49nkPxTdb3aRELVimxAG/8yaDEZeappts42UwmUITTIRjo/2VTJU08m\nMwXz2FXrvqDV04e6cq9hL4eNvcqCdJdnLKfu5Y2QIIPsMBZX1MzmpkFrEiXWtyKp\npon2dnH9p3QBgCTLQTaH+Vv6LdiEoOD+yyZdHJUBIyyoqxU99H7Q87JRra4L5SOr\ne+vtfqchAgMBAAECggEAErDbiKQl8CltIemyIPHRTIaYsV3ZsH0mvRWC0FiB/B53\nIvFTPjUmKggrQrWawjYyWovJKDB1P1L7NJsoxlipkbvStc5iOvVGpS8jdmLB9e4Z\nnHhnJZGM3dJ5mzFXtZOPJmXvern0skCAYipujp36/eMPNsmak5ILiV4KtwsUSySF\nXnhtJPfH9r+IHyIU2XgY22Remb0PLoENpIFR8NSI+5QzZXSC0K6ICBKSbS6w/DKh\nM7z43ec4Q9asPedfXGf3EsSkKHeCGJRFLT7NWfRdiaRZ2JXqQS6My2NIaGPGMCKJ\n0Nld6zjjRhk/r35nglmKi5tmqZroC7V7ZTMvTlAWtQKBgQDdarlZtBzJQ2Y6czU4\nnIrhOXBXWMHxZVcuEBG6NnMIRZz65XITBBuarE0ct+gQ5azFNVIusSwiY40h9cnS\n+6gaCmPwjEmwXGEMMpaILmEBFyeOmv/YNcw9/yoYMZ67fcJvlqgxexf3QirtzQ5B\nJW/jkCmMQcu1qWbJpBz/x/GlmwKBgQDdWWVRUY+Fpr3gpiChi80gq/sOapexBzs4\nRSg5+4a0xyViLNOpWE1DXHou/VIH3SjNvSY+EhicK9TSupKY8BfqAWMFTLER/sGQ\nxQfEgjk7C8sz7he7TVbbdnEWo1r7veae1GySWomCzmEl7adZ4xohLOStmpAOZHx+\nYmJ2kBUv8wKBgGPzGVh1BcmUs0EPYKb9g3PICf5kAqiFpqUUe+wjSCojwok/qg8L\ne6qGvQiJvChkhWlAeKi7McEUT1FVMpYbI/cdWZ/stBb4nJZ0/57Z0NA9M44cSgG/\nx0L1PHtPaugYDP1ydNphRqBHLjnKpvShgbCoExlNWjfXEJ9VhgGwsFShAoGBAMvl\n13DrIrxI9swD/DcTouefxOpowkculByniACxdEr+z676ABgU4UdV3q9+Zpwb28R5\nosq2vLjPn4JmnzgGouDKWj69gLdE52XGOfuIwdNkb9DsWCwPeB09o7roy5zuN4zD\nvSesAtPd7JuVqf0hOCarRhOtN1oqsotxcaYp33qFAoGBALk7CyiUg+NxxZDjHkBv\ns9WdO3T5j01dkrTlIWUkgHPzK0G2ZD76uO//73INNOCK+TRFSN3Fd3Y5PqYShGNn\nxNgXa7wDf8fr6qa/KWNNZlSbwyw/OEVYwrDHBrdzh+7B0ZyYz0dakztD3o9Bw0fJ\nLIw18HBsJdlEMF0EraIdnr80\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc--gotydxti4og72wog2dcdopii7@movies-wala-zone-325012.iam.gserviceaccount.com",
+  "client_id": "112067974228910799336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc--gotydxti4og72wog2dcdopii7%40movies-wala-zone-325012.iam.gserviceaccount.com"
+}
